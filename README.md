@@ -23,5 +23,4 @@ I work at the intersection of market research, data, and technology. I am a mark
   - Turning messy data into clear narratives
   - Bridging business, data, and product teams
 
-📫 Let's connect! Feel free to reach out me [Email me](mailto:hangnguyen.ttm@gmail.com)  
-<sub>(replace [at] with @, [dot] with .)</sub> — happy to exchange ideas and learn together.
+📫 Let's connect! Feel free to reach out me via <a href="mailto:hangnguyen.ttm&#64;gmail&#46;com">Email me</a> — happy to exchange ideas and learn together.
